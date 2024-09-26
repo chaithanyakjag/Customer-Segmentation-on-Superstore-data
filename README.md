@@ -15,9 +15,13 @@ We applied K-Means clustering to group customers into different clusters based o
 ![image](https://github.com/user-attachments/assets/c69a3d24-8764-4da6-b34f-9b2de5292c2c)
 
 ## Key Insights
-High-Value Customers (Cluster 0) are the most profitable, and efforts should be made to retain them through loyalty programs or exclusive offers.
-Frequent Buyers (Cluster 1) have high purchase frequency but low profit margins, suggesting potential for upselling.
-Moderate Buyers (Cluster 2) offer a good balance between sales and profit and should be nurtured with loyalty strategies.
-Discount-Driven Customers (Cluster 3) represent a segment that requires a strategic shift to improve profitability, either by reducing discount dependence or re-engaging them with alternative promotions.
+- **High-Value Customers (Cluster 0)** are the most profitable, and efforts should be made to retain them through loyalty programs or exclusive offers.
+  
+- **Frequent Buyers (Cluster 1)** have high purchase frequency but low profit margins, suggesting potential for upselling.
+  
+- **Moderate Buyers (Cluster 2)** offer a good balance between sales and profit and should be nurtured with loyalty strategies.
+  
+- **Discount-Driven Customers (Cluster 3)** represent a segment that requires a strategic shift to improve profitability, either by reducing discount dependence or re-engaging them with alternative promotions.
+
 ## Conclusion
 The customer segmentation provided valuable insights into the business's customer base, revealing distinct groups with varying behaviors and profitability. By understanding these segments, businesses can tailor their strategies to maximize customer lifetime value and improve overall business performance.
